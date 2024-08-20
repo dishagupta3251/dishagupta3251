@@ -40,7 +40,7 @@
 ![](https://leetcard.jacoblin.cool/dishagupta_25?ext=activity)
 
 ## 💡 Gfg Statistics
-[![Disha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dishagupta3251)](https://auth.geeksforgeeks.org/user/dishagupta3251)
+[![Disha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dishagupta2020)](https://www.geeksforgeeks.org/user/dishagupta2020/)
 
 <br>
 
