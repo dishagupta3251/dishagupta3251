@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Disha Gupta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishagupta3251&label=Profile%20views&color=0e75b6&style=flat" alt="dishagupta3251" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishagupta3251" alt="dishagupta3251" /></a> </p>
 
-- 🔭 I’m currently working on **Job Portal**
+- 🔭 I’m currently working on **PulseOps**
 
-- 🌱 I’m currently learning **backend Development**
+- 🌱 I’m currently learning **dbt,Apache Airflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dishagupta3251](https://github.com/dishagupta3251)
 
-- 📫 How to reach me **dishaguptalko@gmail.com**
+- 📫 How to reach me **disha.gupta3125@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/disha-gupta-bcy168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/disha-gupta-bcy168/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/disha-gupta3125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/disha-gupta3125" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/dishagupta_25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dishagupta_25/" height="30" width="40" /></a>
 </p>
 
