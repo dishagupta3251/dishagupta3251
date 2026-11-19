@@ -42,16 +42,4 @@
 ## 💡 Gfg Statistics
 [![Disha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dishagupta2020)](https://www.geeksforgeeks.org/user/dishagupta2020/)
 
-<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dishagupta3251&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-<br>
-
-
-
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
